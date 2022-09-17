@@ -1,6 +1,8 @@
 # mine_sweeper
 
-A new Flutter project.
+Flutter Vikings 2022 Mine Sweeper game
+
+> Work in progress
 
 ## Getting Started
 
